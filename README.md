@@ -1,6 +1,7 @@
 # Women in AI Hackathon
 [Registration Page](https://lu.ma/women-in-tech), [Discord (TODO!)](...),
-[Looping Deck](https://docs.google.com/presentation/d/1AtCwECxNzUQHEMUHhiLjAqsbbUcxZQXcLUXccMNa0c8/edit?usp=sharing)
+[Looping Deck](https://docs.google.com/presentation/d/1AtCwECxNzUQHEMUHhiLjAqsbbUcxZQXcLUXccMNa0c8/edit?usp=sharing),
+[Final Presentation template](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing)
 
 ## Introduction
 Welcome to the first Women in AI Hackathon, hosted by [Zilliz](https://zilliz.com/) and sponsored by [TwelveLabs](https://www.twelvelabs.io/), [Arize AI](https://arize.com/), [OmniStack](https://omnistack.sh/), and [StreamNative](https://streamnative.io/).
@@ -88,7 +89,7 @@ As an alternative, see here for [free credits provided by our sponsors](./CREDIT
 ### Overview
 At 9.30-10am, we will reveal the team assignment. Teams comprise 3-5 hackers of varying experience and backgrounds. Of course, you may negotiate a team change with your fellow hackers if you wish although encourage you to pair with people you have not previously met.
 
-After settling on your teams, please decide on a team lead and post the team name and cloned GitHub repository address to the Discord channel.
+After settling on your teams, please decide on a team lead and post the team name and members, cloned GitHub repository address, and link to final presentation slides ([make a copy of this template](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing)) to the Discord channel.
 
 You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm perform your final submission to your cloned repo.
 > [!IMPORTANT]
@@ -119,7 +120,9 @@ Your chosen team lead submits your team's project via their fork of this GitHub 
 * 9.30am - 10am: Have your team lead submit to the Discord channel your,
     * team's name and members;
     * forked GitHub repo address for code submission; and,
-    * link to a copy of the final presentation template on Google slides. 
+    * link to a copy of the [final presentation template on Google slides](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing).
+> [!IMPORTANT]
+> Set the necessary permissions so that the judges have access both to your GitHub repo and the final presentation slides.
 * 10am - 5.30pm: Hack, hack, hack! Submit your code via pushes to your forked GitHub repo throughout the day.
 > [!IMPORTANT]
 > Ensure your final code is submitted before 5.30pm!
