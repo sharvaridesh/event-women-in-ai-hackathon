@@ -26,17 +26,33 @@ Please confirm that you can run the starter notebooks on your platform:
 You may also wish to confirm that you can start and use a [Milvus Standalone deployment](https://milvus.io/docs/prerequisite-docker.md) locally and access the [free-tier of Zilliz Cloud](https://cloud.zilliz.com/signup).
 
 ### Download Datasets
-We recommend downloading in advance any datasets you wish to explore with your teammates to save time and reduce stress on the on-site WiFi. Some suggested open-source datasets are listed below [CREATE LINK!]. 
+We recommend downloading in advance any datasets you wish to explore with your teammates to save time and reduce stress on the on-site WiFi.
+
+Here are some suggested open-source datasets:
+* A
+* B
+* C
 
 > [!NOTE]
-> The choice of dataset is an excellent opportunity to showcase your creativity! 
+> The choice of dataset and data modality is an excellent opportunity to showcase your creativity! 
 
-It may help to choose datasets whose vector embeddings have been pre-calculated, or else to calculate and save them in advance. Otherwise, you can calculate embeddings for the dataset locally during the hackathon, or use free credits provided by our sponsors to perform this embedding in the cloud [CREATE LINK!].
+It may help to choose datasets whose vector embeddings have been pre-calculated, or else to calculate and save them in advance. Otherwise, you can calculate embeddings for the dataset locally during the hackathon, or use [free credits provided by our sponsors](./CREDITS.md) to perform this embedding in the cloud.
 
 ### Download Foundation Models
-We also recommend downloading in advance any 
+We also recommend downloading in advance any foundation models you plan to use locally during the hackathon.
 
-As an alternative 
+Here are some suggested open-source general-purpose foundation models:
+*
+*
+*
+And specialized fine-tuned models:
+*
+*
+*
+> [!NOTE]
+> Multimodal models offer many avenues for creativity, and a technically sophisticated solution is likely to make use of several fine-tuned models for specific parts of the pipeline.
+
+As an alternative, see here for [free credits provided by our sponsors](./CREDITS.md) to perform model inference.
 
 ## Schedule
 * 8.30-9.00: Check-in, light breakfast
@@ -56,12 +72,38 @@ At 9.30-10am, we will reveal the team assignment. Teams comprise 3-5 hackers of 
 
 After settling on your teams, please decide on a team lead and post the team name and cloned GitHub repository address to the Discord channel.
 
-You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm
+You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm perform your final submission to your cloned repo. **At this time, no further code changes will be considered by the judges.**
+
+An additional time from 5.30-6.00pm is provided to work on your presentation (see submission instructions below). You can continue to push your slide deck to your GitHub repo until 6pm.
 
 ### Prompt
+```
+“Build a retrieval-augmented generation (RAG) system for one of the following applications:
 
+* A recommender system;
+* A question/answering system for a specialized domain;
+* A product review summarizer;
+* A personalized job recruiter; or,
+* Something of your own imagination!
+
+Your solution must run in Python, demo with a single Jupyter notebook, and use Milvus (any deployment type) as the underlying vector database.
+
+You are restricted to using foundation models under 15B parameters and may use agentic steps in your RAG pipeline. Free credits from our sponsors are available for embedding and foundation model inference.”
+```
 
 ## Submission Instructions
+Your chosen team lead submits your team's project via their fork of this GitHub repo.
+
+1. Between 9.30am - 10am, have your team lead submit to the Discord channel your:
+    * team's name and members;
+    * forked GitHub repo address for code submission; and,
+    * link to a copy of the final presentation template on Google slides. 
+2. 10am - 5.30pm: Hack, hack, hack! Submit your code via pushes to your forked GitHub repo throughout the day.
+> [!IMPORTANT]
+> Ensure your final code is submitted before 5.30pm!
+3. 5.30pm - 6pm: Finalize your presentation slides.
+4. 6pm - 7.30pm: Each team presents their project.
+5. 7.30pm - 8pm: Judges announce results!
 
 ## Judging Criteria
 
