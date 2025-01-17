@@ -2,12 +2,25 @@
 [Registration Page](https://lu.ma/women-in-tech), [Discord](https://discord.gg/VWX29DYN3a),
 [Looping Deck](https://docs.google.com/presentation/d/1AtCwECxNzUQHEMUHhiLjAqsbbUcxZQXcLUXccMNa0c8/edit?usp=sharing),
 [Final Presentation template](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing),
-[Team registration form](...)
+[Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86)
 
 ## Introduction
 Welcome to the first Women in AI Hackathon, hosted by [Zilliz](https://zilliz.com/) and sponsored by [TwelveLabs](https://www.twelvelabs.io/), [Arize AI](https://arize.com/), [OmniStack](https://omnistack.sh/), and [StreamNative](https://streamnative.io/).
 
 This repo provides all required information for the day as well as serving as the starting point for your submission. Direct any questions to [Stefan Webb](mailto:stefan.webb@zilliz.com) before the day of the hackathon and to the [Discord](https://discord.gg/VWX29DYN3a) or in-person mentors on the day.
+
+## Schedule
+* 8.30-9.00: Check-in, light breakfast
+* 9.00-9.30: Kickoff
+* 9:30-10.00: Team reveal and challenge recap
+* **10.00: Let the Hacking Begin!**
+* 12.00-13.00: Lunch and speakers
+* 13.00-17.30: More Hacking!
+* **17.30: Hard submission and code freeze**
+* 17.30-18.00: Work on presentations
+* 18.00-19.30: Showcase your project
+* 19.30-20.00: Judges award prizes
+
 
 ## Before the Day
 There a couple of items we recommend completing in advance of the hackathon:
@@ -74,23 +87,11 @@ And specialized fine-tuned models:
 
 As an alternative, see here for [free credits provided by our sponsors](./CREDITS.md) to perform model inference.
 
-## Schedule
-* 8.30-9.00: Check-in, light breakfast
-* 9.00-9.30: Kickoff
-* 9:30-10.00: Team reveal and challenge recap
-* **10.00: Let the Hacking Begin!**
-* 12.00-13.00: Lunch and speakers
-* 13.00-17.30: More Hacking!
-* **17.30: Hard submission and code freeze**
-* 17.30-18.00: Work on presentations
-* 18.00-19.30: Showcase your project
-* 19.30-20.00: Judges award prizes
-
 ## Let's Hack!
 ### Overview
 At 9.30-10am, we will reveal the team assignment. Teams comprise 3-5 hackers of varying experience and backgrounds. Of course, you may negotiate a team change with your fellow hackers if you wish although encourage you to pair with people you have not previously met.
 
-After settling on your teams, please decide on a team lead and complete the [team registration Google form](...). You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm push your final submission to your cloned repo.
+After settling on your teams, please decide on a team lead and complete the [Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86). You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm push your final submission to your cloned repo.
 > [!IMPORTANT]
 > At this time, no further code changes will be considered by the judges.
 
@@ -116,7 +117,7 @@ Additional time from 5.30-6.00pm is provided to work on your presentation (see s
 ### Submission Instructions
 Your chosen team lead submits your team's code via their fork of this GitHub repo.
 
-* 9.30am - 10am: Have your team complete the [Google form submission](...), which requires,
+* 9.30am - 10am: Have your team complete the [Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86), which requires,
     * team's name and members;
     * forked GitHub repo address for code submission; and,
     * link to a copy of the [final presentation template on Google slides](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing).
@@ -152,11 +153,11 @@ We will provide a breakdown of team scores by final score and score per criterio
 ## Resources
 * [Milvus documentation](https://milvus.io/docs)
 * [Milvus Bootcamp tutorials](https://github.com/milvus-io/bootcamp/tree/master)
+* [Milvus notebook gallery](https://zilliz.com/learn/milvus-notebooks)
+* [Zilliz Generative AI Resource Hub](https://zilliz.com/learn/generative-ai)
 * [HuggingFace Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/en/index)
 
 ## Sponsors (Alphabetical Order)
-[Insert company logos!]
-
 ### Gold
 * [TwelveLabs](https://www.twelvelabs.io/)
 
