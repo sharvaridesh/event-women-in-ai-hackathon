@@ -13,7 +13,7 @@ There a couple of items we recommend completing in advance of the hackathon:
 ### GitHub
 If you have not already, set up a GitHub account plus the necessary Git tooling on your system.
 
-### Set Up Development Environment
+### Set Up Dev Environment
 Clone this repo and set up your development environment. Your environment must allow you to develop a solution within the constraints of the prompt, that is, developing a RAG application in Python using Milvus or Zilliz Cloud.
 
 We recommend:
@@ -50,9 +50,7 @@ Here are some suggested open-source embedding models for text:
 > You are not restricted to working with text. Consider image, video, audio, 3d meshes, graphs, and other modalities.
 
 ### Download Foundation Models
-We also recommend downloading in advance any foundation models you plan to use locally during the hackathon.
-
-Here are some suggested open-source general-purpose foundation models (also look for quantized versions on HF):
+We also recommend downloading in advance any foundation models you plan to use locally during the hackathon. Here are some suggested open-source general-purpose foundation models (also look for quantized versions on HF):
 * [`meta-llama/Llama-3.2-11B-Vision-Instruct`](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct)
 * [`microsoft/phi-4`](https://huggingface.co/microsoft/phi-4)
 * [`mistralai/Mistral-7B-Instruct-v0.3`](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
@@ -67,7 +65,8 @@ And specialized fine-tuned models:
 * [`grounded-ai/phi3-hallucination-judge`](https://huggingface.co/grounded-ai/phi3-hallucination-judge)
 
 > [!IMPORTANT]
-> Some foundation models on HuggingFace, for example, Llama 3.x, require obtaining permission from the authors to download. It can take up to several days for permission to be granted, so we recommend that you do this in advance of the hackerthon.
+> Some foundation models on HuggingFace, for example, `Llama 3.x`, require obtaining permission from the authors to download. It can take up to several days for permission to be granted, so we recommend that you do this in advance of the hackerthon.
+
 > [!NOTE]
 > Multimodal models offer many avenues for creativity, and a technically sophisticated solution is likely to make use of several fine-tuned models for specific parts of the pipeline.
 
@@ -80,7 +79,7 @@ As an alternative, see here for [free credits provided by our sponsors](./CREDIT
 * **10.00: Let the Hacking Begin!**
 * 12.00-13.00: Lunch and speakers
 * 13.00-17.30: More Hacking!
-* **17.30: Hard submission and code frieze**
+* **17.30: Hard submission and code freeze**
 * 17.30-18.00: Work on presentations
 * 18.00-19.30: Showcase your project
 * 19.30-20.00: Judges award prizes
@@ -99,7 +98,7 @@ An additional time from 5.30-6.00pm is provided to work on your presentation (se
 
 ### Prompt
 
-> “Build a retrieval-augmented generation (RAG) system for one of the following applications:
+> *Build a retrieval-augmented generation (RAG) system for one of the following applications:*
 >
 > * A recommender system;
 > * A question/answering system for a specialized > domain;
@@ -107,26 +106,26 @@ An additional time from 5.30-6.00pm is provided to work on your presentation (se
 > * A personalized job recruiter; or,
 >* Something of your own imagination!
 >
-> Your solution must run in Python, demo with a single Jupyter notebook or Gradio app, and use Milvus (any deployment type) or Zilliz Cloud as the underlying vector database.
+> *Your solution must run in Python, demo with a single Jupyter notebook or Gradio app, and use Milvus (any deployment type) or Zilliz Cloud as the underlying vector database.*
 >
->You are restricted to using foundation models under 15B parameters and may use agentic steps in your RAG pipeline. Free credits from our sponsors are available for embedding and foundation model inference.”
+>*You are restricted to using foundation models under 15B parameters and may use agentic steps in your RAG pipeline. Free credits from our sponsors are available for embedding and foundation model inference.*
 
 > [!NOTE]
-> We provide suggested RAG applications, datasets, models etc. to give some structure to your starting point. Although, we want to emphasize that these are only suggestions - follow your creativity and passions!
+> We provide suggested RAG applications, datasets, models etc. to give some structure to your starting point. Although, we want to emphasize that these are only suggestions - follow your creativity and passion!
 
 ## Submission Instructions
 Your chosen team lead submits your team's project via their fork of this GitHub repo.
 
-1. 9.30am - 10am: Have your team lead submit to the Discord channel your,
+* 9.30am - 10am: Have your team lead submit to the Discord channel your,
     * team's name and members;
     * forked GitHub repo address for code submission; and,
     * link to a copy of the final presentation template on Google slides. 
-2. 10am - 5.30pm: Hack, hack, hack! Submit your code via pushes to your forked GitHub repo throughout the day.
+* 10am - 5.30pm: Hack, hack, hack! Submit your code via pushes to your forked GitHub repo throughout the day.
 > [!IMPORTANT]
 > Ensure your final code is submitted before 5.30pm!
-3. 5.30pm - 6pm: Finalize your presentation slides saving to your copy of the Google slides template.
-4. 6pm - 7.30pm: Each team presents their project.
-5. 7.30pm - 8pm: Judges announce results!
+* 5.30pm - 6pm: Finalize your presentation slides saving to your copy of the Google slides template.
+* 6pm - 7.30pm: Each team presents their project via Jupyter notebook or Gradio app.
+* 7.30pm - 8pm: Judges announce results!
 
 ## Judging Criteria
 
@@ -142,7 +141,7 @@ score = 1 / (rank_creativity + k) + 1 / (rank_technical + k) + 1 / (rank_busines
 ```
 where the `rank` terms denote the team's ranking for a given judge and criterion. The final score per team is the average of team scores across judges. What this means is that the winning team must score highly across all 3 criteria with a consensus across judges.
 
-We will provide a breakdown of team scores by final score and each criterion separately.
+We will provide a breakdown of team scores by final score and score per criterion separately (naturally, with error bars).
 
 ## Prizes
 * First prize: ???
