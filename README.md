@@ -147,9 +147,9 @@ where the `rank` terms denote the team's ranking for a given judge and criterion
 We will provide a breakdown of team scores by final score and score per criterion separately (naturally, with error bars).
 
 ## Prizes
-* First prize: ???
-* Second prize: ???
-* Third prize: ???
+* First prize: $1000 cash, $500 Mistral credits, Zilliz Blog Opportunity, Social Mentions, Swag
+* Second prize: $700 cash, Zilliz Blog Opportunity, Social Mentions, Swag
+* Third prize: $500 cash, Social mentions, Swag
 
 ## Resources
 * [Milvus documentation](https://milvus.io/docs)
