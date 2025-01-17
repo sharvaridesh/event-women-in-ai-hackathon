@@ -12,8 +12,8 @@ This repo provides all required information for the day as well as serving as th
 ## Before the Day
 There a couple of items we recommend completing in advance of the hackathon:
 
-### GitHub
-If you have not already, set up a GitHub account plus the necessary Git tooling on your system.
+### GitHub, Discord
+If you have not already, set up a GitHub account plus the necessary Git tooling on your system. Also, join the [Discord server](https://discord.gg/VWX29DYN3a), for the hackathon and introduce yourself.
 
 ### Set Up Dev Environment
 Clone this repo and set up your development environment. Your environment must allow you to develop a solution within the constraints of the prompt, that is, developing a RAG application in Python using Milvus or Zilliz Cloud.
@@ -90,13 +90,11 @@ As an alternative, see here for [free credits provided by our sponsors](./CREDIT
 ### Overview
 At 9.30-10am, we will reveal the team assignment. Teams comprise 3-5 hackers of varying experience and backgrounds. Of course, you may negotiate a team change with your fellow hackers if you wish although encourage you to pair with people you have not previously met.
 
-After settling on your teams, please decide on a team lead and complete the team registration Google form.
-
-You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm perform your final submission to your cloned repo.
+After settling on your teams, please decide on a team lead and complete the [team registration Google form](...). You will have from 10am - 5.30pm to develop a submission with your team. Before 5.30pm push your final submission to your cloned repo.
 > [!IMPORTANT]
 > At this time, no further code changes will be considered by the judges.
 
-An additional time from 5.30-6.00pm is provided to work on your presentation (see submission instructions below).
+Additional time from 5.30-6.00pm is provided to work on your presentation (see submission instructions below). Finally, each team will make a short presentation before the judges make a decision and announce the results!
 
 ### Prompt
 
@@ -115,7 +113,7 @@ An additional time from 5.30-6.00pm is provided to work on your presentation (se
 > [!NOTE]
 > We provide suggested RAG applications, datasets, models etc. to give some structure to your starting point. Although, we want to emphasize that these are only suggestions - follow your creativity and passion!
 
-## Submission Instructions
+### Submission Instructions
 Your chosen team lead submits your team's code via their fork of this GitHub repo.
 
 * 9.30am - 10am: Have your team complete the [Google form submission](...), which requires,
