@@ -28,8 +28,8 @@ You may also wish to confirm that you can start and use a [Milvus Standalone dep
 ### Download Datasets
 We recommend downloading in advance any datasets you wish to explore with your teammates to save time and reduce stress on the on-site WiFi. Some suggested open-source datasets are listed below [CREATE LINK!]. 
 
-[!NOTE]
-The choice of dataset is an excellent opportunity to showcase your creativity! 
+> [!NOTE]
+> The choice of dataset is an excellent opportunity to showcase your creativity! 
 
 It may help to choose datasets whose vector embeddings have been pre-calculated, or else to calculate and save them in advance. Otherwise, you can calculate embeddings for the dataset locally during the hackathon, or use free credits provided by our sponsors to perform this embedding in the cloud [CREATE LINK!].
 
