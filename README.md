@@ -95,7 +95,7 @@ You will have from 10am - 5.30pm to develop a submission with your team. Before 
 > [!IMPORTANT]
 > At this time, no further code changes will be considered by the judges.
 
-An additional time from 5.30-6.00pm is provided to work on your presentation (see submission instructions below). You can continue to push your slide deck to your GitHub repo until 6pm.
+An additional time from 5.30-6.00pm is provided to work on your presentation (see submission instructions below).
 
 ### Prompt
 
