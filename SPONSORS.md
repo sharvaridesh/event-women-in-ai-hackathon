@@ -1,0 +1,109 @@
+# Sponsors
+## Zilliz / Milvus
+Milvus is a distributed vector database developed by Zilliz. It is available as both open-source software and a cloud service. Milvus is an open-source project under LF AI & Data Foundation distributed under the Apache License 2.0.
+
+There are two different options for getting started with Milvus. You can choose to use the open source Milvus locally, or use the free tier of Zilliz Cloud:
+
+### Milvus (Self-Hosted)
+Milvus is an open-source vector database built to power embedding similarity search and AI applications. Milvus makes unstructured data search more accessible, and provides a consistent user experience regardless of the deployment environment. Milvus is released under the open-source Apache License 2.0 and is a graduate project under LF AI & Data Foundation. To get started visit: https://milvus.io/docs.
+
+### Zilliz Cloud (Free Tier)
+Zilliz Cloud is the managed version of Milvus. You can sign up for a free account and get access to TWO Collections that can store up to 500,000 vectors at 768 dimensions for each collection. Find out more here: https://cloud.zilliz.com/signup.
+
+### Resources
+* [Vector Database 101](https://zilliz.com/learn/introduction-to-unstructured-data)
+* [Milvus quickstart guide](https://milvus.io/docs/v2.0.x/install_standalone-docker.md)
+* [Python client SDK](https://milvus.io/docs/install-pymilvus.md)
+* [Example RAG notebook](https://github.com/milvus-io/bootcamp/blob/5109009445e7ab12d53990f08107f9c059b8c50f/bootcamp/tutorials/quickstart/multimodal_retrieval_amazon_reviews.ipynb)
+* [Langchain integration](https://zilliz.com/product/integrations/langchain)
+* [LlamaIndex integration](https://zilliz.com/product/integrations/Llamaindex)
+
+### Community
+* [Discord server](https://discord.com/invite/UUTuDrDVQP)
+* [GitHub repo](https://github.com/milvus-io/milvus)
+* [LinkedIn](https://www.linkedin.com/company/zilliz)
+
+## Twelve Labs
+[Twelve Labs](https://www.twelvelabs.io/) builds multimodal foundation models that generate powerful vector embeddings to enable a wide range of downstream video understanding applications.
+
+* *Video embedding model:* This model, named Marengo, converts videos into multimodal video embeddings that enable fast and scalable task execution without storing the entire video. Marengo has been trained on a vast amount of video data, and it can recognize entities, actions, patterns, movements, objects, scenes, and other elements present in videos. By integrating information from different modalities, the model can be used for several downstream tasks, such as search using natural language queries.
+* *Video language model:* This model, named Pegasus, bridges the gap between visual and textual understanding by integrating text and video data in a common embedding space. The platform uses this model for tasks that involve generating or understanding natural language in the context of video content, such as summarizing videos and answering questions.
+
+Built by developers, for developers, our APIs provide access to these advanced multimodal foundation models, enabling capabilities such as:
+
+* *Powerful semantic search:* Find exact moments within any video using natural language queries, without the need for tags or metadata.
+* *Video-to-text generation:* Generate deep analyses, video specific Q&A, or general highlight generation for any video content.
+* *Zero-shot classification:* Utilize natural language to create your custom taxonomies, allowing for precise and efficient video classification tailored to your unique use case.
+* *Intuitive integration:* Embed our video understanding models into your application with just a few API calls.
+* *Rapid result retrieval:* Obtain results within seconds.
+* *Scalability:* Our cloud-native distributed infrastructure effortlessly handles thousands of concurrent requests.
+
+### Resources
+* [Quickstart tutorial](https://docs.twelvelabs.io/v1.2/docs/quickstart) and [API Reference](https://docs.twelvelabs.io/v1.2/reference/api-reference): Built on top of our state-of-the-art multimodal foundation model optimized for videos, the platform enables you to add rich, contextual video understanding to your applications through developer-friendly APIs.
+* [Twelve Labs Recipes](https://docs.twelvelabs.io/v1.2/recipes): These will give you a running start on commonly used endpoints.
+* [Twelve Labs Sample Apps](https://www.twelvelabs.io/blog-categories/tutorial): These sample apps showcase different use cases developers have built with our API.
+
+Twelve Labs provides the following client SDKs that enable you to integrate and utilize the platform within your application:
+* [Python SDK](https://github.com/twelvelabs-io/twelvelabs-python)
+* [JavaScript SDK](https://github.com/twelvelabs-io/twelvelabs-js)
+
+### Additional Links
+Here’s how to stay connected with our community:
+* [Discord](https://discord.com/invite/Sh6BRfakJa)
+* [Twitter](https://twitter.com/twelve_labs)
+* [LinkedIn](https://www.linkedin.com/company/twelvelabs/)
+
+Here’s where we publish content:
+* [Blog](https://app.twelvelabs.io/blog)
+* [YouTube](https://www.youtube.com/@twelvelabs4474)
+
+## Arize AI
+[TODO]
+
+## StreamNative
+[StreamNative](http://streamnative.io), founded by the creators of Apache Pulsar, is redefining real-time data streaming. Our platform empowers organizations to process and analyze massive data streams at scale with unparalleled efficiency. At its core is the URSA engine, which seamlessly integrates Apache Pulsar and Apache Kafka, delivering unmatched compatibility and performance. By simplifying deployments and enabling direct integration with modern lakehouse architectures, URSA helps businesses innovate faster and more effectively. With our cost-efficient solutions, companies can build cutting-edge, real-time applications that drive measurable outcomes. 
+
+### Resources
+
+You can take advantage of $200 free credit to get started with StreamNative. Create your free account at the [Cloud Console](https://console.streamnative.cloud/) then free credit will be automatically applied to your account.
+
+* [QuickStart Tutorial](https://docs.streamnative.io/docs/quickstart-console)
+* [StreamNative Developer Portal](https://streamnative.io/dev-portal) includes free online courses on Apache Pulsar, StreamNative and Kafka.
+* [StreamNative Blog](https://streamnative.io/blog)
+* [StreamNative Academy](https://www.youtube.com/@streamnativeacademy8484) Youtube Channel
+
+### Additional Links
+Here’s how to stay connected with our community:
+* [Twitter](https://twitter.com/streamnativeio)
+* [LinkedIn](https://www.linkedin.com/company/streamnative/)
+* [Slack](https://communityinviter.com/apps/apache-pulsar/apache-pulsar)
+
+## OmniStack
+[OmniStack](https://omnistack.sh/) is a developer platform that accelerates AI integration into applications and makes them production-ready by providing essential tools like workflow building, observability, evals, failover, and model deployment. It also provides access to 100+ models from all major providers. 
+
+You can use the OmniStack platform to run 100+ pre-deployed models, including LLAMA, or to deploy fine-tuned models.
+
+Please make sure to fill out [this form](https://forms.gle/emGYPepgmSGghqcA7) to get an extra $500 for the duration of the hackathon.
+
+Using third-party models:
+* Go to the OmniModels page and select a desired model from OpenAI, Gemini, Meta, etc.
+* Click Add, and it will be added to your Models page.
+* [Youtube Video](https://www.youtube.com/watch?v=DyK2zGR0IwQ)
+
+Deploying fine-tuned/uncensored models:
+* To deploy fine-tuned models, use OmniDeploy. 
+* [YouTube Video](https://youtu.be/7PCdLEb4Jo0?si=phAN9M7cJ8Ytm4mw)
+
+We currently support models with image and text inputs and text outputs, and we don't yet support models with image and audio outputs.
+
+### Additional Links: 
+* [Sign up](https://omnistack.sh/)
+* [Discord](https://share.omnistack.sh/discord)
+* [Twitter](https://x.com/OmniStack_sh)
+* [Book a meeting](https://share.omnistack.sh/cal)
+
+## Mistral
+[TODO]
+
+## AWS
+[TODO]

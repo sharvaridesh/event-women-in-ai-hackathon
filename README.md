@@ -158,6 +158,8 @@ We will provide a breakdown of team scores by final score and score per criterio
 * [HuggingFace Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/en/index)
 
 ## Sponsors (Alphabetical Order)
+More details of our sponsors are provided [here](./SPONSORS.md) and details of included free cloud credits are [here](./CREDITS.md).
+
 ### Gold
 * [TwelveLabs](https://www.twelvelabs.io/)
 
