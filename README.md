@@ -98,7 +98,12 @@ And specialized fine-tuned models:
 > [!NOTE]
 > Multimodal models offer many avenues for creativity, and a technically sophisticated solution is likely to make use of several fine-tuned models for specific parts of the pipeline.
 
-As an alternative, see here for [free credits provided by our sponsors](./CREDITS.md) to perform model inference.
+> [!TIP]
+> As an alternative, see here for [**free credits provided by our sponsors**](./CREDITS.md) to perform model inference.
+>
+> TwelveLabs has kindly provided credits for their inference service, including [**video foundation models**](https://docs.twelvelabs.io/docs/video-understanding-models).
+>
+> OmniStack has also provided credits for their [**inference, monitoring, and deployment services**](https://omnistack.sh/#features).
 
 ## Let's Hack!
 
