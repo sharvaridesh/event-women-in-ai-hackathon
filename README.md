@@ -72,11 +72,11 @@ Here are some suggested open-source embedding models for text:
 - [`google/Gemma-Embeddings-v1.0`](https://huggingface.co/google/Gemma-Embeddings-v1.0)
 - [`Snowflake/snowflake-arctic-embed-m-v2.0`](https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v2.0)
 
-  > [!NOTE]
-  > You are not restricted to working with text. Consider image, video, audio, 3d meshes, graphs, and other modalities.
+> [!NOTE]
+> You are not restricted to working with text. Consider image, video, audio, 3d meshes, graphs, and other modalities.
 
-  > [!NOTE]
-  > Twelve Labs offers some excellent models for video embedding and inference. See their website for more details.
+> [!NOTE]
+> Twelve Labs offers some excellent models for video embedding and inference. See their website for more details.
 
 ### Download Foundation Models
 
