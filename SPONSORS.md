@@ -35,7 +35,7 @@ Milvus is an open-source vector database built to power embedding similarity sea
 ## Twelve Labs
 
 > [!TIP]
-> Twelve Labs is providing 10 hours of free credits for all attendees to play with our video embedding and video-language models. Twelve Labs inference platform provides access to powerful **foundation models for video**. Check out their website for more details.
+> Twelve Labs is providing 10 hours of free credits for all attendees to play with our video embedding and video-language models.
 
 [Twelve Labs](https://www.twelvelabs.io/) builds multimodal foundation models that generate powerful vector embeddings to enable a wide range of downstream video understanding applications.
 
