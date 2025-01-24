@@ -135,7 +135,7 @@ Additional time from 5.30-6.00pm is provided to work on your presentation (see s
 >
 > _Your submission must run in Python and use Milvus (any deployment type) or Zilliz Cloud as the underlying vector database. We recommend but do not require your submission to use Jupyter Notebook or Gradio._
 >
-> _You are restricted to using foundation models under 15B parameters and may use agentic steps in your RAG pipeline. Free credits from our sponsors are available for embedding and foundation model inference._
+> _You may use agentic steps in your RAG pipeline and free credits from our sponsors are available for embedding and foundation model inference._
 
 > [!NOTE]
 > We provide suggested RAG applications, datasets, models etc. to give some structure to your starting point. Although, we want to emphasize that these are only suggestions - follow your creativity and passion!
@@ -202,7 +202,7 @@ More details of our sponsors and how to use their free cloud credits are provide
 
 ### Gold
 
-- [TwelveLabs](https://www.twelvelabs.io/)
+- [Twelve Labs](https://www.twelvelabs.io/)
 
 ### Silver
 
