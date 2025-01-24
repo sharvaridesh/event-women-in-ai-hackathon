@@ -146,11 +146,15 @@ Your chosen team lead submits your team's code via their fork of this GitHub rep
 - 9.30am - 10am: Have your team complete the [Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86), which requires,
   _ team's name and members;
   _ forked GitHub repo address for code submission; and, \* link to a copy of the [final presentation template on Google slides](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing).
-  > [!IMPORTANT]
-  > Set the necessary permissions so that the judges have access both to your GitHub repo and the final presentation slides.
+
+> [!IMPORTANT]
+> Set the necessary permissions so that the judges have access both to your GitHub repo and the final presentation slides.
+
 - 10am - 5.30pm: Hack, hack, hack! Submit your code via pushes to your forked GitHub repo throughout the day.
-  > [!IMPORTANT]
-  > Ensure your final code is submitted before 5.30pm!
+
+> [!IMPORTANT]
+> Ensure your final code is submitted before 5.30pm!
+
 - 5.30pm - 6pm: Finalize your presentation slides saving to your copy of the Google slides template.
 - 6pm - 7.30pm: Each team presents their project via Jupyter notebook or Gradio app.
 - 7.30pm - 8pm: Judges announce results!
