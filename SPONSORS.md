@@ -140,3 +140,13 @@ We currently support models with image and text inputs and text outputs, and we 
 - [Discord](https://share.omnistack.sh/discord)
 - [Twitter](https://x.com/OmniStack_sh)
 - [Book a meeting](https://share.omnistack.sh/cal)
+
+## Mistral
+
+Mistral AI, headquartered in Paris, France specializes in artificial intelligence (AI) products and focuses on open-weight large language models (LLMs), an alternative to proprietary models. Learn more at [mistral.ai](https://mistral.ai).
+
+### Resources
+
+- [Documentation](https://docs.mistral.ai/)
+- [Cookbooks](https://github.com/mistralai/cookbook)
+- [Discord](https://discord.gg/mistralai)
