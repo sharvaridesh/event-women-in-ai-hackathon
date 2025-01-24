@@ -133,7 +133,7 @@ Additional time from 5.30-6.00pm is provided to work on your presentation (see s
 > - A personalized job recruiter; or,
 > - Something of your own imagination!
 >
-> _Your solution must run in Python, demo with a single Jupyter notebook or Gradio app, and use Milvus (any deployment type) or Zilliz Cloud as the underlying vector database._
+> _Your submission must run in Python and use Milvus (any deployment type) or Zilliz Cloud as the underlying vector database. We recommend but do not require your submission to use Jupyter Notebook or Gradio._
 >
 > _You are restricted to using foundation models under 15B parameters and may use agentic steps in your RAG pipeline. Free credits from our sponsors are available for embedding and foundation model inference._
 
