@@ -3,7 +3,7 @@
 ## Zilliz / Milvus
 
 > [!TIP]
-> Zilliz has a generous free-tier for their cloud hosted vector database service, Zilliz Cloud. See below for details on how to access.
+> Zilliz has a generous free-tier for their cloud hosted vector database service, [Zilliz Cloud](https://cloud.zilliz.com/signup). See below for details on how to access.
 
 Milvus is a distributed vector database developed by Zilliz. It is available as both open-source software and a cloud service. Milvus is an open-source project under LF AI & Data Foundation distributed under the Apache License 2.0.
 
@@ -15,7 +15,7 @@ Milvus is an open-source vector database built to power embedding similarity sea
 
 ### Zilliz Cloud (Free Tier)
 
-Zilliz Cloud is the managed version of Milvus. You can sign up for a free account and get access to TWO Collections that can store up to 500,000 vectors at 768 dimensions for each collection. Find out more here: https://cloud.zilliz.com/signup.
+[Zilliz Cloud](https://cloud.zilliz.com/signup) is the managed version of Milvus. You can sign up for a free account and get access to TWO Collections that can store up to 500,000 vectors at 768 dimensions for each collection. Find out more here: https://cloud.zilliz.com/signup.
 
 ### Resources
 
@@ -34,11 +34,9 @@ Zilliz Cloud is the managed version of Milvus. You can sign up for a free accoun
 
 ## Twelve Labs
 
-> [!TIP]
-> Twelve Labs is providing 10 hours of free credits for all attendees to play with our video embedding and video-language models.
+> [!TIP] > [Twelve Labs](https://www.twelvelabs.io/) is providing 10 hours of free credits for all attendees to play with our video embedding and video-language models.
 
-> [!TIP]
-> Twelve Labs' inference platform provides access to powerful **foundation models for video**. Check out their website for more details.
+> [!TIP] > [Twelve Labs'](https://www.twelvelabs.io/) inference platform provides access to powerful **foundation models for video**. Check out their website for more details.
 
 [Twelve Labs](https://www.twelvelabs.io/) builds multimodal foundation models that generate powerful vector embeddings to enable a wide range of downstream video understanding applications.
 

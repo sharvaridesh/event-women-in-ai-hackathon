@@ -105,9 +105,13 @@ And specialized fine-tuned models:
 > [!TIP]
 > As an alternative, see here for [**free credits provided by our sponsors**](./SPONSORS.md) to perform model inference.
 >
-> TwelveLabs has kindly provided credits for their inference service, including [**video foundation models**](https://docs.twelvelabs.io/docs/video-understanding-models).
+> [Zilliz](https://cloud.zilliz.com/signup), [AWS](https://aws.amazon.com/free), and [Mistral](https://mistral.ai) have a generous free-tier for their cloud services.
 >
-> OmniStack has also provided credits for their [**inference, monitoring, and deployment services**](https://omnistack.sh/#features).
+> [Twelve Labs](https://www.twelvelabs.io/) has kindly provided credits for their inference service, including [**video foundation models**](https://docs.twelvelabs.io/docs/video-understanding-models).
+>
+> [OmniStack](https://omnistack.sh/) has also provided credits for their [**inference, monitoring, and deployment services**](https://omnistack.sh/#features).
+>
+> [StreamNative](http://streamnative.io) is offering $200 in free credits for their cloud data platform.
 
 ## Let's Hack!
 
