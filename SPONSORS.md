@@ -34,9 +34,11 @@ Zilliz Cloud is the managed version of Milvus. You can sign up for a free accoun
 
 ## Twelve Labs
 
-> [!TIP] Twelve Labs provides 10 hours of free credits for all attendees to play with our video embedding and video-language models.
+> [!TIP]
+> Twelve Labs is providing 10 hours of free credits for all attendees to play with our video embedding and video-language models.
 
-> [!TIP] Twelve Labs' inference platform provides access to powerful _foundation models for video_. Check out their website for more details.
+> [!TIP]
+> Twelve Labs' inference platform provides access to powerful _foundation models for video_. Check out their website for more details.
 
 [Twelve Labs](https://www.twelvelabs.io/) builds multimodal foundation models that generate powerful vector embeddings to enable a wide range of downstream video understanding applications.
 
