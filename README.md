@@ -172,9 +172,9 @@ We will provide a breakdown of team scores by final score and score per criterio
 
 ## Prizes
 
-- _First prize:_ $1000 cash, $10000 AWS credits, Zilliz Blog Opportunity, Social Mentions, Swag
-- _Second prize:_ $700 cash, Zilliz Blog Opportunity, Social Mentions, Swag
-- _Third prize: $500_ cash, Social mentions, Swag
+- _First prize:_ $1000 bucks, $10000 AWS credits, Zilliz Blog Opportunity, Social Mentions, Swag
+- _Second prize:_ $700 bucks, Zilliz Blog Opportunity, Social Mentions, Swag
+- _Third prize: $500_ bucks, Social mentions, Swag
 - _Top score using Mistral models:_ $500 Mistral credits
 - _Everybody:_ Satisfaction from a job well done!
 
@@ -188,7 +188,7 @@ We will provide a breakdown of team scores by final score and score per criterio
 
 ## Sponsors (Alphabetical Order)
 
-More details of our sponsors are provided [here](./SPONSORS.md) and details of included free cloud credits are [here](./CREDITS.md).
+More details of our sponsors and how to use their free cloud credits are provided [here](./SPONSORS.md).
 
 ### Gold
 

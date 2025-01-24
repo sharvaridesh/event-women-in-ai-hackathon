@@ -2,6 +2,9 @@
 
 ## Zilliz / Milvus
 
+> [!INFO]
+> Zilliz has a generous free-tier for their cloud hosted vector database service, Zilliz Cloud. See below for details on how to access.
+
 Milvus is a distributed vector database developed by Zilliz. It is available as both open-source software and a cloud service. Milvus is an open-source project under LF AI & Data Foundation distributed under the Apache License 2.0.
 
 There are two different options for getting started with Milvus. You can choose to use the open source Milvus locally, or use the free tier of Zilliz Cloud:
@@ -30,6 +33,10 @@ Zilliz Cloud is the managed version of Milvus. You can sign up for a free accoun
 - [LinkedIn](https://www.linkedin.com/company/zilliz)
 
 ## Twelve Labs
+
+> [!INFO] Twelve Labs provides 10 hours of free credits for all attendees to play with our video embedding and video-language models.
+
+> [!INFO] Twelve Labs' inference platform provides access to powerful _foundation models for video_. Check out their website for more details.
 
 [Twelve Labs](https://www.twelvelabs.io/) builds multimodal foundation models that generate powerful vector embeddings to enable a wide range of downstream video understanding applications.
 
@@ -94,6 +101,9 @@ Phoenix is built by [Arize AI](https://arize.com), the company behind the indust
 
 ## StreamNative
 
+> [!INFO]
+> StreamNative is offering $200 in free credits for their cloud data platform.
+
 [StreamNative](http://streamnative.io), founded by the creators of Apache Pulsar, is redefining real-time data streaming. Our platform empowers organizations to process and analyze massive data streams at scale with unparalleled efficiency. At its core is the URSA engine, which seamlessly integrates Apache Pulsar and Apache Kafka, delivering unmatched compatibility and performance. By simplifying deployments and enabling direct integration with modern lakehouse architectures, URSA helps businesses innovate faster and more effectively. With our cost-efficient solutions, companies can build cutting-edge, real-time applications that drive measurable outcomes.
 
 ### Resources
@@ -115,22 +125,27 @@ Here’s how to stay connected with our community:
 
 ## OmniStack
 
+> [!INFO]
+> OmniStack is providing over $500 in free inference credits for the duration of the hackathon.
+
 [OmniStack](https://omnistack.sh/) is a developer platform that accelerates AI integration into applications and makes them production-ready by providing essential tools like workflow building, observability, evals, failover, and model deployment. It also provides access to 100+ models from all major providers.
 
 You can use the OmniStack platform to run 100+ pre-deployed models, including LLAMA, or to deploy fine-tuned models.
 
-Please make sure to fill out [this form](https://forms.gle/emGYPepgmSGghqcA7) to get an extra $500 for the duration of the hackathon.
+We currently support models with image and text inputs and text outputs, and we don't yet support models with image and audio outputs.
 
-Using third-party models:
+Please make sure to fill out this https://forms.gle/emGYPepgmSGghqcA7 form to get an extra $500 for the duration of the hackathon.
+
+_Using third-party models:_
 
 - Go to the OmniModels page and select a desired model from OpenAI, Gemini, Meta, etc.
 - Click Add, and it will be added to your Models page.
-- [Youtube Video](https://www.youtube.com/watch?v=DyK2zGR0IwQ)
+- Video: https://www.youtube.com/watch?v=DyK2zGR0IwQ
 
-Deploying fine-tuned/uncensored models:
+_Deploying fine-tuned/uncensored models:_
 
 - To deploy fine-tuned models, use OmniDeploy.
-- [YouTube Video](https://youtu.be/7PCdLEb4Jo0?si=phAN9M7cJ8Ytm4mw)
+- Video: https://youtu.be/7PCdLEb4Jo0?si=phAN9M7cJ8Ytm4mw
 
 We currently support models with image and text inputs and text outputs, and we don't yet support models with image and audio outputs.
 
@@ -141,7 +156,23 @@ We currently support models with image and text inputs and text outputs, and we 
 - [Twitter](https://x.com/OmniStack_sh)
 - [Book a meeting](https://share.omnistack.sh/cal)
 
+## AWS
+
+> [!INFO]
+> AWS is awarding $10,000 to the winning team! Think of what you could accomplish with that much compute...
+
+Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis.
+
+### Resources
+
+- [Free-tier](https://aws.amazon.com/free)
+- [What is AWS?](https://aws.amazon.com/what-is-aws)
+- [Getting Started](https://aws.amazon.com/getting-started/)
+
 ## Mistral
+
+> [!INFO]
+> Mistral is awarding $500 in credits to the top team that uses Mistral technology in their submission.
 
 Mistral AI, headquartered in Paris, France specializes in artificial intelligence (AI) products and focuses on open-weight large language models (LLMs), an alternative to proprietary models. Learn more at [mistral.ai](https://mistral.ai).
 
