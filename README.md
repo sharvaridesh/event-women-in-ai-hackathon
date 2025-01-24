@@ -73,10 +73,7 @@ Here are some suggested open-source embedding models for text:
 - [`Snowflake/snowflake-arctic-embed-m-v2.0`](https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v2.0)
 
 > [!NOTE]
-> You are not restricted to working with text. Consider image, video, audio, 3d meshes, graphs, and other modalities.
-
-> [!NOTE]
-> Twelve Labs offers some excellent models for video embedding and inference. See their website for more details.
+> You are not restricted to working with text. Consider image, video, audio, 3d meshes, graphs, and other modalities. [Twelve Labs](https://www.twelvelabs.io/) offers some excellent models for video embedding and inference. See their website for more details.
 
 ### Download Foundation Models
 
@@ -107,9 +104,9 @@ And specialized fine-tuned models:
 >
 > [Zilliz](https://cloud.zilliz.com/signup), [AWS](https://aws.amazon.com/free), and [Mistral](https://mistral.ai) have a generous free-tier for their cloud services.
 >
-> [Twelve Labs](https://www.twelvelabs.io/) has kindly provided credits for their inference service, including [**video foundation models**](https://docs.twelvelabs.io/docs/video-understanding-models).
+> [Twelve Labs](https://www.twelvelabs.io/) has kindly provided 10 free hours of credit for their inference service, including [**video foundation models**](https://docs.twelvelabs.io/docs/video-understanding-models).
 >
-> [OmniStack](https://omnistack.sh/) has also provided credits for their [**inference, monitoring, and deployment services**](https://omnistack.sh/#features).
+> [OmniStack](https://omnistack.sh/) is providing over $500 credits for their [**inference, monitoring, and deployment services**](https://omnistack.sh/#features).
 >
 > [StreamNative](http://streamnative.io) is offering $200 in free credits for their cloud data platform.
 
