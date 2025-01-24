@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Welcome to the first Women in AI Hackathon, hosted by [Zilliz](https://zilliz.com/) and sponsored by [TwelveLabs](https://www.twelvelabs.io/), [Arize AI](https://arize.com/), [OmniStack](https://omnistack.sh/), and [StreamNative](https://streamnative.io/).
+Welcome to the first Women in AI Hackathon, hosted by [Zilliz](https://zilliz.com/) and sponsored by [TwelveLabs](https://www.twelvelabs.io/), [Arize AI](https://arize.com/), [OmniStack](https://omnistack.sh/), [StreamNative](https://streamnative.io/), [AWS](https://aws.amazon.com/), and [Mistral](https://mistral.ai).
 
 This repo provides all required information for the day as well as serving as the starting point for your submission. Direct any questions to [Stefan Webb](mailto:stefan.webb@zilliz.com) before the day of the hackathon and to the [Discord](https://discord.gg/VWX29DYN3a) or in-person mentors on the day.
 
