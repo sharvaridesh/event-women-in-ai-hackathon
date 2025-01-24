@@ -64,7 +64,7 @@ Here are some suggested open-source datasets:
 > [!NOTE]
 > The choice of dataset and data modality is an excellent opportunity to showcase your creativity!
 
-It may help to choose datasets whose vector embeddings have been pre-calculated, or else to calculate and save them in advance. Otherwise, you can calculate embeddings for the dataset locally during the hackathon, or use [free credits provided by our sponsors](./CREDITS.md) to perform this embedding in the cloud.
+It may help to choose datasets whose vector embeddings have been pre-calculated, or else to calculate and save them in advance. Otherwise, you can calculate embeddings for the dataset locally during the hackathon, or use [free credits provided by our sponsors](./SPONSORS.md) to perform this embedding in the cloud.
 
 Here are some suggested open-source embedding models for text:
 
@@ -103,7 +103,7 @@ And specialized fine-tuned models:
 > Multimodal models offer many avenues for creativity, and a technically sophisticated solution is likely to make use of several fine-tuned models for specific parts of the pipeline.
 
 > [!TIP]
-> As an alternative, see here for [**free credits provided by our sponsors**](./CREDITS.md) to perform model inference.
+> As an alternative, see here for [**free credits provided by our sponsors**](./SPONSORS.md) to perform model inference.
 >
 > TwelveLabs has kindly provided credits for their inference service, including [**video foundation models**](https://docs.twelvelabs.io/docs/video-understanding-models).
 >
