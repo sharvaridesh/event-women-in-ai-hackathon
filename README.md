@@ -3,7 +3,8 @@
 [Registration Page](https://lu.ma/women-in-tech), [Discord](https://discord.gg/VWX29DYN3a),
 [Looping Deck](https://docs.google.com/presentation/d/1AtCwECxNzUQHEMUHhiLjAqsbbUcxZQXcLUXccMNa0c8/edit?usp=sharing),
 [Final Presentation template](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing),
-[Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86)
+[Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86),
+[Colab Simple RAG](https://colab.research.google.com/drive/11eVKDYDtwaGpyHSG0eYDe50fDMaY0cMH?usp=sharing)
 
 ## Introduction
 
