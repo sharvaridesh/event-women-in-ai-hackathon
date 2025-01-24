@@ -145,8 +145,9 @@ Additional time from 5.30-6.00pm is provided to work on your presentation (see s
 Your chosen team lead submits your team's code via their fork of this GitHub repo.
 
 - 9.30am - 10am: Have your team complete the [Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86), which requires,
-  _ team's name and members;
-  _ forked GitHub repo address for code submission; and, \* link to a copy of the [final presentation template on Google slides](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing).
+  - team's name and members;
+  - forked GitHub repo address for code submission; and,
+  - link to a copy of the [final presentation template on Google slides](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing).
 
 > [!IMPORTANT]
 > Set the necessary permissions so that the judges have access both to your GitHub repo and the final presentation slides.
@@ -157,7 +158,7 @@ Your chosen team lead submits your team's code via their fork of this GitHub rep
 > Ensure your final code is submitted before 5.30pm!
 
 - 5.30pm - 6pm: Finalize your presentation slides saving to your copy of the Google slides template.
-- 6pm - 7.30pm: Each team presents their project via Jupyter notebook or Gradio app.
+- 6pm - 7.30pm: Each team presents their project via Jupyter notebook, Gradio app, or some other way.
 - 7.30pm - 8pm: Judges announce results!
 
 ## Judging Criteria
@@ -181,7 +182,7 @@ We will provide a breakdown of team scores by final score and score per criterio
 
 ## Prizes
 
-- _First prize:_ $1000 bucks, $10000 AWS credits, Zilliz Blog Opportunity, Social Mentions, Swag
+- _First prize:_ $1000 bucks, $10,000 AWS credits, Zilliz Blog Opportunity, Social Mentions, Swag
 - _Second prize:_ $700 bucks, Zilliz Blog Opportunity, Social Mentions, Swag
 - _Third prize: $500_ bucks, Social mentions, Swag
 - _Top score using Mistral models:_ $500 Mistral credits
